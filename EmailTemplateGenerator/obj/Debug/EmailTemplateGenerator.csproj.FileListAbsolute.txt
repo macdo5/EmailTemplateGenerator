@@ -1,0 +1,11 @@
+C:\Users\oscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.Form1.resources
+C:\Users\oscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.Properties.Resources.resources
+C:\Users\oscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.csproj.GenerateResource.cache
+C:\Users\oscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\bin\Debug\EmailTemplateGenerator.exe.config
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\bin\Debug\EmailTemplateGenerator.exe
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\bin\Debug\EmailTemplateGenerator.pdb
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.csprojAssemblyReference.cache
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.exe
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.pdb
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.Form2.resources
