@@ -36,6 +36,7 @@
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.buttonGo = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.SuspendLayout();
@@ -105,10 +106,20 @@
             this.numericUpDown2.Size = new System.Drawing.Size(86, 22);
             this.numericUpDown2.TabIndex = 7;
             // 
+            // buttonGo
+            // 
+            this.buttonGo.Location = new System.Drawing.Point(6, 259);
+            this.buttonGo.Name = "buttonGo";
+            this.buttonGo.Size = new System.Drawing.Size(75, 23);
+            this.buttonGo.TabIndex = 8;
+            this.buttonGo.Text = "Go";
+            this.buttonGo.UseVisualStyleBackColor = true;
+            // 
             // UserControlLowDiskSpace
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.buttonGo);
             this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.numericUpDown1);
@@ -136,5 +147,6 @@
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.Button buttonGo;
     }
 }

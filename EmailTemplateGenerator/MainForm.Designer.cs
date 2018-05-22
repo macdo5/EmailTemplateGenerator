@@ -81,6 +81,7 @@
             this.comboBoxTemplates.Name = "comboBoxTemplates";
             this.comboBoxTemplates.Size = new System.Drawing.Size(281, 24);
             this.comboBoxTemplates.TabIndex = 4;
+            this.comboBoxTemplates.SelectedIndexChanged += new System.EventHandler(this.comboBoxTemplates_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -102,7 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1064, 624);
+            this.ClientSize = new System.Drawing.Size(1064, 618);
             this.Controls.Add(this.panelTemplate);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.comboBoxTemplates);

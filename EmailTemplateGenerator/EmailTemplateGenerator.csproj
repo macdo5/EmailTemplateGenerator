@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UserControlBackupsManagedByClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBackupsManagedByClient.Designer.cs">
+      <DependentUpon>UserControlBackupsManagedByClient.cs</DependentUpon>
+    </Compile>
     <Compile Include="Constants.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
@@ -61,7 +67,8 @@
     <Compile Include="Ini.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TemplateHolder.cs" />
+    <Compile Include="Template.cs" />
+    <Compile Include="TemplateFactory.cs" />
     <Compile Include="UserControlLowDiskSpace.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -83,6 +90,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UserControlBackupsManagedByClient.resx">
+      <DependentUpon>UserControlBackupsManagedByClient.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControlLowDiskSpace.resx">
       <DependentUpon>UserControlLowDiskSpace.cs</DependentUpon>
     </EmbeddedResource>

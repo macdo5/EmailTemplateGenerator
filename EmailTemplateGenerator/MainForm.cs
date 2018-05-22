@@ -12,12 +12,12 @@ namespace EmailTemplateGenerator
 {
     public partial class MainForm : Form
     {
-        TemplateHolder templates = new TemplateHolder();
+        TemplateFactory templateFactory;
         Ini iBrainData;
         public MainForm()
         {
             InitializeComponent();
-            templates = new TemplateHolder();
+            templateFactory = new TemplateFactory();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -48,6 +48,12 @@ namespace EmailTemplateGenerator
                 this.Close();
             }
             iBrainPathDialogBox.Dispose();
+        }
+
+        private void comboBoxTemplates_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string templateName = comboBoxTemplates.Text;
+            Template template = templateFactory.BuildTemplate(templateName);
         }
     }
 }

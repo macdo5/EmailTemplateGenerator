@@ -9,3 +9,7 @@ C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTem
 C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.exe
 C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.pdb
 C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.Form2.resources
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.MainForm.resources
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.FormSettingsDialog.resources
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.UserControlBackupsManagedByClient.resources
+C:\Users\OscarM\Documents\Visual Studio Projects\EmailTemplateGenerator\EmailTemplateGenerator\obj\Debug\EmailTemplateGenerator.UserControlLowDiskSpace.resources
